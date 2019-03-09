@@ -1,0 +1,10 @@
+img {
+    max-width : 100%;
+    min-width : 200px;
+    width : 300px;
+    heigth : 300px;
+    display : block;
+    margin : auto;
+
+
+}
